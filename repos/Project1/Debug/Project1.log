@@ -1,0 +1,28 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01 c++书写helloworld.cpp
+  02 常量.cpp
+  03 标识符命名规则.cpp
+  04 整型.cpp
+  05 sizeof关键字.cpp
+  06 实型.cpp
+C:\Users\Oayia\source\repos\Project1\06 实型.cpp(22,17): warning C4305: “初始化”: 从“double”到“float”截断
+  07 字符型.cpp
+  08 转义字符.cpp
+  09 字符串.cpp
+  10 布尔类型.cpp
+  11 数据的输入.cpp
+  12 运算符.cpp
+  13 程序流程结构.cpp
+  14 数组.cpp
+C:\Users\Oayia\source\repos\Project1\14 数组.cpp(30,6): warning C4101: “arr4”: 未引用的局部变量
+  15 函数.cpp
+  16 指针.cpp
+  17 指针和数组.cpp
+  18 指针和函数.cpp
+  19 结构体.cpp
+  20 结构体数组.cpp
+  正在生成代码...
+  正在编译...
+  add.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\Oayia\source\repos\Project1\Debug\1_C++基础篇.exe
